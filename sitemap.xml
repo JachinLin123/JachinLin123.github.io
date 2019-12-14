@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://itmumu.cn/tags/index.html</loc>
+    
+	<lastmod>2019-12-14T09:12:03.152Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://itmumu.cn/categories/index.html</loc>
+    
+	<lastmod>2019-12-14T09:11:15.080Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://itmumu.cn/about/index.html</loc>
+    
+	<lastmod>2019-12-14T08:13:44.950Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://itmumu.cn/404.html</loc>
     
 	<lastmod>2019-12-09T14:57:02.526Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://itmumu.cn/2019/12/09/My-first-blog/</loc>
-    
-	<lastmod>2019-12-09T07:24:39.596Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://itmumu.cn/2019/12/09/hello-world/</loc>
-    
-	<lastmod>2019-12-09T07:16:41.590Z</lastmod>
     
   </url>
   
